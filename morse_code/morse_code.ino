@@ -45,7 +45,6 @@ void loop() {
   digitalWrite(LED, HIGH);
   delay(DAH);
   digitalWrite(LED, LOW);
-  delay(UNIT);
   delay(NEXTLETTER);
 
   // Show 'S'
